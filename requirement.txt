@@ -1,0 +1,6 @@
+boto3 >= 1.34
+langchain
+langchain-community
+langchain-aws
+faiss-cpu
+pypdf
